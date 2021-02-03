@@ -3,3 +3,4 @@
 #   tribune_urls <- tribune_articles %>% html_nodes("article") %>% html_nodes("a") %>% html_attr("href")
 #   unique(tribune_urls)
 #   }
+#
