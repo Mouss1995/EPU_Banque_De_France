@@ -91,13 +91,13 @@ Les données ont été collecté sur les sites **Les Echos** et **La Tribune** p
 
 
 
-![Décomposition saisonnière et visualisation de la tendance en France]("plot/season_fr.png")
+![Décomposition saisonnière et visualisation de la tendance en France](plot/season_fr.png)
 
-![Décomposition saisonnière et visualisation de la tendance au Royaume-Uni]("plot/season_uk.png")
+![Décomposition saisonnière et visualisation de la tendance au Royaume-Uni](plot/season_uk.png)
 
-![Graphique prévisionnel de l'indice EPU en France]("plot/prediction_fr.png")
+![Graphique prévisionnel de l'indice EPU en France](plot/prediction_fr.png)
 
-![Graphique prévisionnel de l'indice EPU au Royaume-Uni]("plot/prediction_uk.png")
+![Graphique prévisionnel de l'indice EPU au Royaume-Uni](plot/prediction_uk.png)
 
-![Application Shiny pour la visualisation des données]("plot/shiny.png")
+![Application Shiny pour la visualisation des données](plot/shiny.png)
 
