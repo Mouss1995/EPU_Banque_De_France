@@ -17,7 +17,7 @@ Ce projet consiste à rechercher la fréquence d'apparition de certains mots-cl�
 - &nbsp;Le fichier Excel suivant contient les bases de données mensuelles : **resultats-epu.xls**
 
 
-- &nbsp;Le projet est également disponible sur GitHub : 
+- &nbsp;Le projet est également disponible sur GitHub : **https://github.com/Mouss1995/EPU_Banque_De_France**
 
 
 ## Structure du projet 
@@ -91,4 +91,13 @@ Les données ont été collecté sur les sites **Les Echos** et **La Tribune** p
 
 
 
+![Décomposition saisonnière et visualisation de la tendance en France]("plot/season_fr.png")
+
+![Décomposition saisonnière et visualisation de la tendance au Royaume-Uni]("plot/season_uk.png")
+
+![Graphique prévisionnel de l'indice EPU en France]("plot/prediction_fr.png")
+
+![Graphique prévisionnel de l'indice EPU au Royaume-Uni]("plot/prediction_uk.png")
+
+![Application Shiny pour la visualisation des données]("plot/shiny.png")
 
